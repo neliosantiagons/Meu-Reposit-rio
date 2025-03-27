@@ -8,7 +8,7 @@ document.getElementById("conversion-form").addEventListener("submit", function(e
 
     const exchangeRates = {
         BRL: 1,
-        EUR: 0.12,
+        EUR: 0.13,
         USD: 0.20,
         STN: 4.1
     };
