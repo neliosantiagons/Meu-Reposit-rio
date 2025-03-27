@@ -8,9 +8,9 @@ document.getElementById("conversion-form").addEventListener("submit", function(e
 
     const exchangeRates = {
         BRL: 1,
-        EUR: 0.156,
-        USD: 0.171,
-        STN: 3.9
+        EUR: 0.17,
+        USD: 0.20,
+        STN: 4.1
     };
 
     const fee = amount * 0.123;
